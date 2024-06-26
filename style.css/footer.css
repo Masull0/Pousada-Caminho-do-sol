@@ -1,0 +1,35 @@
+footer{
+  padding: 1.5rem;
+  background-color: #4b4646;
+}
+.footer-container{
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+.footer-container > img{
+  max-width: 230px;
+}
+.footer-container h1{
+  text-align: center;
+  text-transform: uppercase;
+  color: aliceblue;
+}
+.footer-container ul li{
+  color: aliceblue;
+  list-style: none;
+  margin-top: 1rem;
+}
+.footer-container2 ul li a{
+  text-decoration: none;
+  position: relative;
+  right: 1.8rem;
+  color: aliceblue;
+}
+footer > h6{
+  top: 22px;
+  position: relative;
+  color: aliceblue;
+  text-align: center;
+  font-size: 15px;
+}
